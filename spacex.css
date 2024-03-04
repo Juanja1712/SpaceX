@@ -1,0 +1,10 @@
+#container-missions{
+    padding: 5rem;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 2rem;
+};
+
+.card-title{
+    text-align: center;
+}
